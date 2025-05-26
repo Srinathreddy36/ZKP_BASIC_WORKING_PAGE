@@ -39,7 +39,7 @@ The Verifier checks if the response matches the expected one using the stored se
 bash
 Copy
 Edit
-git clone https://github.com/your-username/garuda-zkp-login.git
+git clone https://github.com/Srinathreddy36/garuda-zkp-login.git
 cd garuda-zkp-login
 2. Create Virtual Environment (Optional but Recommended)
 bash
